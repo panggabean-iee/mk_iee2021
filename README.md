@@ -5,5 +5,6 @@ File-file bantu untuk MK Rangkaian Elektrik di Calvin Institute of Technology
 
 Folder adalah pembagian untuk setiap pertemuan.
 
-M01 - Pertemuan pertama, berisikan LCAPY
-M02 - Pertemuan kedua, berisikan R,L,C seri dan paralel
+M01 - Instalasi LCAPY
+M02 - R,L,C seri dan paralel
+M03 - KCL dan KVL
